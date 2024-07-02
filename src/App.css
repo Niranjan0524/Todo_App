@@ -1,0 +1,43 @@
+input{
+  width: 100%;
+}
+body{
+  background-color: cadetblue;
+}
+.todo-container{
+  background-color:rgb(237, 155, 162);
+  padding: 10px;
+}
+
+.parentContainer{
+  border-style:groove;
+  padding: 10px;
+  background-color:brown;
+}
+
+
+.todo-container h1{
+  color: rgb(121, 120, 119);
+}
+
+.itemsContainer{
+  text-align:left;  
+}
+
+.parthRow{
+  margin: 10px 20px ;
+  border-style: groove;
+  padding: 10px;
+  background-color: azure;
+}
+.none{
+  border-style:double;
+  background-color: bisque;
+}
+.container .btn{
+  width:80px;
+}
+
+#welcomeMessage{
+  color:rgb(52, 52, 33);
+}
